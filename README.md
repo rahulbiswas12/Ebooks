@@ -1,16 +1,15 @@
 # Ebooks 🌠✈
 
-Introduction to Algorithms: CLRS (Advanced) https://www.amazon.in/Introduction-Al...
+Introduction to Algorithms: CLRS (Advanced) 
 
-Cracking the Coding Interview by Gayle Laakmann Mcdowell  (Advanced) https://www.amazon.in/gp/product/1451...
+Cracking the Coding Interview by Gayle Laakmann Mcdowell  (Advanced)
 
-Algorithms by Sedgwick (Moderate) https://www.amazon.in/gp/product/B004...
+Algorithms by Sedgwick (Moderate) 
 
-Data Structures and Algorithms made easy by Narasimha Karumanchi  (Beginners) https://www.amazon.in/gp/product/8193...
+Data Structures and Algorithms made easy by Narasimha Karumanchi  (Beginners) 
 
-Java for Dummies: Barry A. Burd  (Beginners) https://www.amazon.in/Java-Dummies-Ba...
+Java for Dummies: Barry A. Burd  (Beginners) 
 
-Operating system concepts: Abraham Silberschatz (General) https://www.amazon.in/Operating-Syste...
+Operating system concepts: Abraham Silberschatz (General) 
 
-Computer Networking -  A top down approach (General) https://www.amazon.in/Computer-Networ...
- 
+Computer Networking -  A top down approach (General) 
