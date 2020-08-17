@@ -13,3 +13,5 @@ Java for Dummies: Barry A. Burd  (Beginners)
 Operating system concepts: Abraham Silberschatz (General) 
 
 Computer Networking -  A top down approach (General) 
+
+Operating System Concepts (9th Ed) - Gagne, Silberschatz, and Galvin.pdf
