@@ -15,3 +15,5 @@ Operating system concepts: Abraham Silberschatz (General)
 Computer Networking -  A top down approach (General) 
 
 Operating System Concepts (9th Ed) - Gagne, Silberschatz, and Galvin.pdf
+
+Guide to Competitive Programming by Antti Laaksonen 
