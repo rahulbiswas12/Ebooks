@@ -17,3 +17,5 @@ Computer Networking -  A top down approach (General)
 Operating System Concepts (9th Ed) - Gagne, Silberschatz, and Galvin.pdf
 
 Guide to Competitive Programming by Antti Laaksonen 
+
+Operating System Principles 7 Edition (English, Paperback, Silberschatz Abraham)
